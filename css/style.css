@@ -38,6 +38,7 @@ body {
 .album > img {
   width: 100%;
   margin-bottom: 15px;
+  border-radius: 10px;
 }
 .album > h3 {
   margin-bottom: 10px;
